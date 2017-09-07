@@ -1,4 +1,4 @@
-We use[ReasonReact](https://github.com/reasonml/reason-react) in this project.
+Using [ReasonReact](https://github.com/reasonml/reason-react) in this project.
 
 Run this project:
 
