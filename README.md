@@ -1,4 +1,4 @@
-We sue [ReasonReact](https://github.com/reasonml/reason-react) in this project.
+We use[ReasonReact](https://github.com/reasonml/reason-react) in this project.
 
 Run this project:
 
